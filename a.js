@@ -1,1 +1,3 @@
-console.log(1);
+let i = 556;
+
+console.log(i);
